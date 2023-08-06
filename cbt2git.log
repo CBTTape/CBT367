@@ -1,0 +1,6 @@
+2023-08-06 03:41:19.845429 - Initialized conversion of CBT367
+2023-08-06 03:41:19.873796 - Received CBT.V505.FILE367.PDS from FILE367.XMI 
+2023-08-06 03:41:19.875762 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE367.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:41:19.876715 - Found @FILE367.txt (text/plain) in CBT.V505.FILE367.PDS, moved to PDS/@FILE367
+2023-08-06 03:41:19.877654 - Found ASCBS.rexx (text/plain) in CBT.V505.FILE367.PDS, moved to PDS/ASCBS
+2023-08-06 03:41:19.878548 - Found TSURXS.rexx (text/plain) in CBT.V505.FILE367.PDS, moved to PDS/TSURXS
